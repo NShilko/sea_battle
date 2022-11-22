@@ -1,5 +1,5 @@
 
-# Tick-Tak-Toe with simple AI
+# Sea Battle with simple AI
 
 ![App Screenshot](https://github.com/NShilko/sea_battle/blob/main/screenshots/icon.ico?raw=true)
 
